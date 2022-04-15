@@ -1,0 +1,91 @@
+body{
+    overflow-x: hidden;
+}
+// sec-mv
+.slick-slide {
+    &>div {
+        &>div {
+            display: flex !important;
+            align-items: center;
+            justify-content: center;
+            background: green;
+            background: rgba($color: green, $alpha: 0.3);
+
+            img {
+                width: auto;
+                height: 478px;
+            }
+        }
+    }
+}
+
+.slick-dots {
+    bottom: 20px;
+
+    li {
+        button {
+            &::before {
+                font-size: 10px;
+                opacity: 1;
+            }
+        }
+
+        &.slick-active {
+            button {
+                &::before {
+                    opacity: 1;
+                    color: green;
+                }
+            }
+        }
+    }
+}
+
+//sec-product
+section{
+    margin-bottom: 100px;
+}
+.card-title{
+    font-size: 20px;
+    position: relative;
+    .icon-heart{
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            right: 0;
+    }
+}
+
+
+//footer
+.list-sns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    li{
+        list-style-type: none;
+        padding: 15px 10px;
+        a{
+            display: inline-block;
+            padding: 0px 0px;
+            color:inherit;
+            transition: all 0.3s ease;
+            font-size: 24px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: green;
+            background: #fff;
+            border-radius: 50%;
+            &:hover{
+                opacity: 1;
+                transition: all 0.3s ease;
+                background: #000;
+            }
+        }
+    }
+}
