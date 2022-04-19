@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vestableShop/static/css/main.35bb2f59.css",
-    "main.js": "/vestableShop/static/js/main.e34af0de.js",
-    "static/js/787.28cb0dcd.chunk.js": "/vestableShop/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/vestableShop/index.html",
-    "main.35bb2f59.css.map": "/vestableShop/static/css/main.35bb2f59.css.map",
-    "main.e34af0de.js.map": "/vestableShop/static/js/main.e34af0de.js.map",
-    "787.28cb0dcd.chunk.js.map": "/vestableShop/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.35bb2f59.css",
+    "main.js": "/static/js/main.363daf2d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.35bb2f59.css.map": "/static/css/main.35bb2f59.css.map",
+    "main.363daf2d.js.map": "/static/js/main.363daf2d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35bb2f59.css",
-    "static/js/main.e34af0de.js"
+    "static/js/main.363daf2d.js"
   ]
 }
