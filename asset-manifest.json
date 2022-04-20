@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vestableShop/static/css/main.35bb2f59.css",
-    "main.js": "/vestableShop/static/js/main.ba463d4a.js",
+    "main.css": "/vestableShop/static/css/main.f2074dbd.css",
+    "main.js": "/vestableShop/static/js/main.b59474d6.js",
     "static/js/787.28cb0dcd.chunk.js": "/vestableShop/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/vestableShop/index.html",
-    "main.35bb2f59.css.map": "/vestableShop/static/css/main.35bb2f59.css.map",
-    "main.ba463d4a.js.map": "/vestableShop/static/js/main.ba463d4a.js.map",
+    "main.f2074dbd.css.map": "/vestableShop/static/css/main.f2074dbd.css.map",
+    "main.b59474d6.js.map": "/vestableShop/static/js/main.b59474d6.js.map",
     "787.28cb0dcd.chunk.js.map": "/vestableShop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35bb2f59.css",
-    "static/js/main.ba463d4a.js"
+    "static/css/main.f2074dbd.css",
+    "static/js/main.b59474d6.js"
   ]
 }
